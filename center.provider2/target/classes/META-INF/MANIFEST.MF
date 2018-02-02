@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: provider2.center
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: win10
+Implementation-Vendor-Id: com.service.registrycenter
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/provider2.ce
+ nter/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
